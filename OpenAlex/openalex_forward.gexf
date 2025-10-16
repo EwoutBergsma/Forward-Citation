@@ -1,0 +1,1048 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-10-16">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="title" type="string" />
+      <attribute id="1" title="year" type="long" />
+      <attribute id="2" title="doi" type="string" />
+      <attribute id="3" title="venue" type="string" />
+      <attribute id="4" title="cited_by_count" type="long" />
+    </attributes>
+    <nodes>
+      <node id="https://openalex.org/W3163755028" label="https://openalex.org/W3163755028">
+        <attvalues>
+          <attvalue for="0" value="Internet of Things 2.0: Concepts, Applications, and Future Directions" />
+          <attvalue for="1" value="2021" />
+          <attvalue for="2" value="https://doi.org/10.1109/access.2021.3078549" />
+          <attvalue for="3" value="IEEE Access" />
+          <attvalue for="4" value="102" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4210879646" label="https://openalex.org/W4210879646">
+        <attvalues>
+          <attvalue for="0" value="A Review on Antenna Technologies for Ambient RF Energy Harvesting and Wireless Power Transfer: Designs, Challenges and Applications" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="https://doi.org/10.1109/access.2022.3149276" />
+          <attvalue for="3" value="IEEE Access" />
+          <attvalue for="4" value="148" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4366977512" label="https://openalex.org/W4366977512">
+        <attvalues>
+          <attvalue for="0" value="Ethical hacking for IoT: Security issues, challenges, solutions and recommendations" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.1016/j.iotcps.2023.04.002" />
+          <attvalue for="3" value="Internet of Things and Cyber-Physical Systems" />
+          <attvalue for="4" value="85" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4394804988" label="https://openalex.org/W4394804988">
+        <attvalues>
+          <attvalue for="0" value="Secure Multi-Party Computation for Machine Learning: A Survey" />
+          <attvalue for="1" value="2024" />
+          <attvalue for="2" value="https://doi.org/10.1109/access.2024.3388992" />
+          <attvalue for="3" value="IEEE Access" />
+          <attvalue for="4" value="33" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4407985823" label="https://openalex.org/W4407985823">
+        <attvalues>
+          <attvalue for="0" value="IoT‐5G and B5G/6G resource allocation and network slicing orchestration using learning algorithms" />
+          <attvalue for="1" value="2025" />
+          <attvalue for="2" value="https://doi.org/10.1049/ntw2.70002" />
+          <attvalue for="3" value="IET Networks" />
+          <attvalue for="4" value="7" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W3211742690" label="https://openalex.org/W3211742690">
+        <attvalues>
+          <attvalue for="0" value="Machine Learning in Beyond 5G/6G Networks—State-of-the-Art and Future Trends" />
+          <attvalue for="1" value="2021" />
+          <attvalue for="2" value="https://doi.org/10.3390/electronics10222786" />
+          <attvalue for="3" value="Electronics" />
+          <attvalue for="4" value="91" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4312349588" label="https://openalex.org/W4312349588">
+        <attvalues>
+          <attvalue for="0" value="Internet of Things: Device Capabilities, Architectures, Protocols, and Smart Applications in Healthcare Domain" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="https://doi.org/10.1109/jiot.2022.3228795" />
+          <attvalue for="3" value="IEEE Internet of Things Journal" />
+          <attvalue for="4" value="80" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4388966623" label="https://openalex.org/W4388966623">
+        <attvalues>
+          <attvalue for="0" value="Toward Enhanced Attack Detection and Explanation in Intrusion Detection System-Based IoT Environment Data" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.1109/access.2023.3336678" />
+          <attvalue for="3" value="IEEE Access" />
+          <attvalue for="4" value="30" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4322576550" label="https://openalex.org/W4322576550">
+        <attvalues>
+          <attvalue for="0" value="&lt;i&gt;Trust–SIoT&lt;/i&gt;: Toward Trustworthy Object Classification in the Social Internet of Things" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.1109/tnsm.2023.3247831" />
+          <attvalue for="3" value="IEEE Transactions on Network and Service Management" />
+          <attvalue for="4" value="28" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4320473171" label="https://openalex.org/W4320473171">
+        <attvalues>
+          <attvalue for="0" value="Tracking the Research on Ten Emerging Digital Technologies in the AECO Industry" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.1061/jcemd4.coeng-12290" />
+          <attvalue for="3" value="Journal of Construction Engineering and Management" />
+          <attvalue for="4" value="27" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4389080276" label="https://openalex.org/W4389080276">
+        <attvalues>
+          <attvalue for="0" value="A Survey on IoT-Edge-Cloud Continuum Systems: Status, Challenges, Use Cases, and Open Issues" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.3390/fi15120383" />
+          <attvalue for="3" value="Future Internet" />
+          <attvalue for="4" value="27" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4385453905" label="https://openalex.org/W4385453905">
+        <attvalues>
+          <attvalue for="0" value="An enhanced energy efficient protocol for large-scale IoT-based heterogeneous WSNs" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.1016/j.sciaf.2023.e01807" />
+          <attvalue for="3" value="Scientific African" />
+          <attvalue for="4" value="26" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4408608231" label="https://openalex.org/W4408608231">
+        <attvalues>
+          <attvalue for="0" value="Internet of Things’ sustainability effects: quantile and temporal insights" />
+          <attvalue for="1" value="2025" />
+          <attvalue for="2" value="https://doi.org/10.1057/s41599-025-04665-7" />
+          <attvalue for="3" value="Humanities and Social Sciences Communications" />
+          <attvalue for="4" value="3" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4293418771" label="https://openalex.org/W4293418771">
+        <attvalues>
+          <attvalue for="0" value="Current status of and future opportunities for digital agriculture in Australia" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="https://doi.org/10.1071/cp21594" />
+          <attvalue for="3" value="Crop and Pasture Science" />
+          <attvalue for="4" value="31" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4281493184" label="https://openalex.org/W4281493184">
+        <attvalues>
+          <attvalue for="0" value="Wireless Sensor Network coverage optimization based on Yin–Yang pigeon-inspired optimization algorithm for Internet of Things" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="https://doi.org/10.1016/j.iot.2022.100546" />
+          <attvalue for="3" value="Internet of Things" />
+          <attvalue for="4" value="28" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4293370545" label="https://openalex.org/W4293370545">
+        <attvalues>
+          <attvalue for="0" value="An Improved Lightweight Two-Factor Authentication Protocol for IoT Applications" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="https://doi.org/10.1109/tii.2022.3201971" />
+          <attvalue for="3" value="IEEE Transactions on Industrial Informatics" />
+          <attvalue for="4" value="27" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4319786661" label="https://openalex.org/W4319786661">
+        <attvalues>
+          <attvalue for="0" value="Neglected infrastructures for 6G—Underwater communications: How mature are they?" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.1016/j.jnca.2023.103595" />
+          <attvalue for="3" value="Journal of Network and Computer Applications" />
+          <attvalue for="4" value="18" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4401433593" label="https://openalex.org/W4401433593">
+        <attvalues>
+          <attvalue for="0" value="Parental autonomy support and psychological control and children's biobehavioral functioning: Historical cohort differences in urban China" />
+          <attvalue for="1" value="2024" />
+          <attvalue for="2" value="https://doi.org/10.1111/cdev.14145" />
+          <attvalue for="3" value="Child Development" />
+          <attvalue for="4" value="10" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4391554010" label="https://openalex.org/W4391554010">
+        <attvalues>
+          <attvalue for="0" value="Frequency Selective Surface Structures-Based RF Energy Harvesting Systems and Applications: FSS-Based RF Energy Harvesting Systems" />
+          <attvalue for="1" value="2024" />
+          <attvalue for="2" value="https://doi.org/10.1109/mmm.2023.3340988" />
+          <attvalue for="3" value="IEEE Microwave Magazine" />
+          <attvalue for="4" value="9" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4385656415" label="https://openalex.org/W4385656415">
+        <attvalues>
+          <attvalue for="0" value="Low-Cost and Low-Frequency Impedance Meter for Soil Water Content Measurement in the Precision Agriculture Scenario" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.1109/tim.2023.3302898" />
+          <attvalue for="3" value="IEEE Transactions on Instrumentation and Measurement" />
+          <attvalue for="4" value="15" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4388510242" label="https://openalex.org/W4388510242">
+        <attvalues>
+          <attvalue for="0" value="A Survey on IoT-Edge-Cloud Continuum Systems: Status, Challenges, Use Cases, and Open Issues" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.20944/preprints202311.0532.v1" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="15" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4400908959" label="https://openalex.org/W4400908959">
+        <attvalues>
+          <attvalue for="0" value="Optimization analysis of average message delivery time for healthcare monitoring using a developed NB-IoT technology in a smart city" />
+          <attvalue for="1" value="2024" />
+          <attvalue for="2" value="https://doi.org/10.1016/j.iot.2024.101290" />
+          <attvalue for="3" value="Internet of Things" />
+          <attvalue for="4" value="8" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4391547675" label="https://openalex.org/W4391547675">
+        <attvalues>
+          <attvalue for="0" value="A New PUF-Based Protocol for Mutual Authentication and Key Agreement Between Three Layers of Entities in Cloud-Based IoMT Networks" />
+          <attvalue for="1" value="2024" />
+          <attvalue for="2" value="https://doi.org/10.1109/access.2024.3361921" />
+          <attvalue for="3" value="IEEE Access" />
+          <attvalue for="4" value="7" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4372269045" label="https://openalex.org/W4372269045">
+        <attvalues>
+          <attvalue for="0" value="IoT Evolution and Recent Advancements" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.1109/icaccs57279.2023.10112761" />
+          <attvalue for="3" value="2022 8th International Conference on Advanced Computing and Communication Systems (ICACCS)" />
+          <attvalue for="4" value="12" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4406849041" label="https://openalex.org/W4406849041">
+        <attvalues>
+          <attvalue for="0" value="Cognitive IoT Collusion SSDF Attack Detection Based on FP-Growth Algorithm" />
+          <attvalue for="1" value="2025" />
+          <attvalue for="2" value="https://doi.org/10.1007/s10922-025-09900-9" />
+          <attvalue for="3" value="Journal of Network and Systems Management" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4410199002" label="https://openalex.org/W4410199002">
+        <attvalues>
+          <attvalue for="0" value="Leaves for high power density hydrovoltaic generators" />
+          <attvalue for="1" value="2025" />
+          <attvalue for="2" value="https://doi.org/10.1016/j.isci.2025.112601" />
+          <attvalue for="3" value="iScience" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4410617461" label="https://openalex.org/W4410617461">
+        <attvalues>
+          <attvalue for="0" value="A multi-strategy enhanced dung beetle algorithm for solving real-world engineering problems" />
+          <attvalue for="1" value="2025" />
+          <attvalue for="2" value="https://doi.org/10.1007/s10462-025-11235-5" />
+          <attvalue for="3" value="Artificial Intelligence Review" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4385221014" label="https://openalex.org/W4385221014">
+        <attvalues>
+          <attvalue for="0" value="HAPS-Based Interference Suppression Through Null Broadening With Directivity Control in Space-Air-Ground Integrated Networks" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.1109/tvt.2023.3295385" />
+          <attvalue for="3" value="IEEE Transactions on Vehicular Technology" />
+          <attvalue for="4" value="11" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4206717753" label="https://openalex.org/W4206717753">
+        <attvalues>
+          <attvalue for="0" value="High-Sensitivity and Compact Time Domain Soil Moisture Sensor Using Dispersive Phase Shifter for Complex Permittivity Measurement" />
+          <attvalue for="1" value="2021" />
+          <attvalue for="2" value="https://doi.org/10.1109/tim.2021.3132367" />
+          <attvalue for="3" value="IEEE Transactions on Instrumentation and Measurement" />
+          <attvalue for="4" value="20" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4295084703" label="https://openalex.org/W4295084703">
+        <attvalues>
+          <attvalue for="0" value="Traffic-Aware Secured Cooperative Framework for IoT-Based Smart Monitoring in Precision Agriculture" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="https://doi.org/10.3390/s22176676" />
+          <attvalue for="3" value="Sensors" />
+          <attvalue for="4" value="15" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W3216181886" label="https://openalex.org/W3216181886">
+        <attvalues>
+          <attvalue for="0" value="TEMSEP: Threshold-Oriented and Energy-Harvesting Enabled Multilevel SEP Protocol for Improving Energy-Efficiency of Heterogeneous WSNs" />
+          <attvalue for="1" value="2021" />
+          <attvalue for="2" value="https://doi.org/10.1109/access.2021.3128507" />
+          <attvalue for="3" value="IEEE Access" />
+          <attvalue for="4" value="18" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4323971836" label="https://openalex.org/W4323971836">
+        <attvalues>
+          <attvalue for="0" value="Foldable RF Energy Harvesting System Based on Vertically Layered Metal Electrodes within a Single Sheet of Paper" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.1002/adma.202300197" />
+          <attvalue for="3" value="Advanced Materials" />
+          <attvalue for="4" value="9" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4321021758" label="https://openalex.org/W4321021758">
+        <attvalues>
+          <attvalue for="0" value="Statistical Learning-Based Adaptive Network Access for the Industrial Internet of Things" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.1109/jiot.2023.3245585" />
+          <attvalue for="3" value="IEEE Internet of Things Journal" />
+          <attvalue for="4" value="8" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4392397070" label="https://openalex.org/W4392397070">
+        <attvalues>
+          <attvalue for="0" value="The Impacts of 6G Technologies on Achieving Economic Sustainability Goals in Digital Transformation Point of View: Literature Review" />
+          <attvalue for="1" value="2024" />
+          <attvalue for="2" value="https://doi.org/10.1007/978-3-031-53991-6_48" />
+          <attvalue for="3" value="Lecture notes in mechanical engineering" />
+          <attvalue for="4" value="4" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4200537793" label="https://openalex.org/W4200537793">
+        <attvalues>
+          <attvalue for="0" value="Recent Advances in New Materials for 6G Communications" />
+          <attvalue for="1" value="2021" />
+          <attvalue for="2" value="https://doi.org/10.1002/aelm.202100978" />
+          <attvalue for="3" value="Advanced Electronic Materials" />
+          <attvalue for="4" value="15" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4210771822" label="https://openalex.org/W4210771822">
+        <attvalues>
+          <attvalue for="0" value="Internet of Things Networks: Enabling Simultaneous Wireless Information and Power Transfer" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="https://doi.org/10.1109/mmm.2021.3130710" />
+          <attvalue for="3" value="IEEE Microwave Magazine" />
+          <attvalue for="4" value="11" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4378976228" label="https://openalex.org/W4378976228">
+        <attvalues>
+          <attvalue for="0" value="Multiservice Compact Pixelated Stacked Antenna With Different Pixel Shapes for IoT Applications" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.1109/jiot.2023.3281816" />
+          <attvalue for="3" value="IEEE Internet of Things Journal" />
+          <attvalue for="4" value="7" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4387042200" label="https://openalex.org/W4387042200">
+        <attvalues>
+          <attvalue for="0" value="Ultra-Fast and Efficient Design Method Using Deep Learning for Capacitive Coupling WPT System" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.1109/tpel.2023.3319505" />
+          <attvalue for="3" value="IEEE Transactions on Power Electronics" />
+          <attvalue for="4" value="7" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W3198064290" label="https://openalex.org/W3198064290">
+        <attvalues>
+          <attvalue for="0" value="Privacy Preservation of User Identity in Contact Tracing for COVID-19-Like Pandemics Using Edge Computing" />
+          <attvalue for="1" value="2021" />
+          <attvalue for="2" value="https://doi.org/10.1109/access.2021.3110762" />
+          <attvalue for="3" value="IEEE Access" />
+          <attvalue for="4" value="14" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4385452916" label="https://openalex.org/W4385452916">
+        <attvalues>
+          <attvalue for="0" value="Compact Multiservice Antenna for Sensing and Communication Using Reconfigurable Complementary Spiral Resonator" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.1109/tim.2023.3300466" />
+          <attvalue for="3" value="IEEE Transactions on Instrumentation and Measurement" />
+          <attvalue for="4" value="6" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4387650641" label="https://openalex.org/W4387650641">
+        <attvalues>
+          <attvalue for="0" value="Extruder Machine Gear Fault Detection Using Autoencoder LSTM via Senor Fusion Approach" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.20944/preprints202310.0467.v1" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="6" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4388627545" label="https://openalex.org/W4388627545">
+        <attvalues>
+          <attvalue for="0" value="Real-Time Lightweight Cloud-Based Access Control for Wearable IoT Devices: A Zero Trust Protocol" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.1145/3628356.3630118" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="6" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4399433472" label="https://openalex.org/W4399433472">
+        <attvalues>
+          <attvalue for="0" value="TinyML for 5G networks" />
+          <attvalue for="1" value="2024" />
+          <attvalue for="2" value="https://doi.org/10.1016/b978-0-44-322202-3.00014-2" />
+          <attvalue for="3" value="Elsevier eBooks" />
+          <attvalue for="4" value="3" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4312767947" label="https://openalex.org/W4312767947">
+        <attvalues>
+          <attvalue for="0" value="A Secure One-to-Many Authentication and Key Agreement Scheme for Industrial IoT" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="https://doi.org/10.1109/jsyst.2022.3209868" />
+          <attvalue for="3" value="IEEE Systems Journal" />
+          <attvalue for="4" value="9" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4406113507" label="https://openalex.org/W4406113507">
+        <attvalues>
+          <attvalue for="0" value="Japanese waka translation supported by internet of things and artificial intelligence technology" />
+          <attvalue for="1" value="2025" />
+          <attvalue for="2" value="https://doi.org/10.1038/s41598-025-85184-y" />
+          <attvalue for="3" value="Scientific Reports" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4407597248" label="https://openalex.org/W4407597248">
+        <attvalues>
+          <attvalue for="0" value="Lightweight batch authentication and key agreement scheme for IIoT gateways" />
+          <attvalue for="1" value="2025" />
+          <attvalue for="2" value="https://doi.org/10.1016/j.sysarc.2025.103368" />
+          <attvalue for="3" value="Journal of Systems Architecture" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4408106007" label="https://openalex.org/W4408106007">
+        <attvalues>
+          <attvalue for="0" value="Q-learning based heterogeneous network selection decision algorithm for ultra reliable and low latency communication services" />
+          <attvalue for="1" value="2025" />
+          <attvalue for="2" value="https://doi.org/10.1007/s11276-025-03931-5" />
+          <attvalue for="3" value="Wireless Networks" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4410778936" label="https://openalex.org/W4410778936">
+        <attvalues>
+          <attvalue for="0" value="Minimizing IoT Energy Consumption Using BLE and Metaprotocol Architecture" />
+          <attvalue for="1" value="2025" />
+          <attvalue for="2" value="https://doi.org/10.1155/dsn/7859748" />
+          <attvalue for="3" value="International Journal of Distributed Sensor Networks" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4411435299" label="https://openalex.org/W4411435299">
+        <attvalues>
+          <attvalue for="0" value="Архитектурные уязвимости IoT-устройств в контексте атак по сторонним каналам" />
+          <attvalue for="1" value="2025" />
+          <attvalue for="2" value="https://doi.org/10.24108/preprints-3113590" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4411863072" label="https://openalex.org/W4411863072">
+        <attvalues>
+          <attvalue for="0" value="Optimizing lightweight neural networks for efficient mobile edge computing" />
+          <attvalue for="1" value="2025" />
+          <attvalue for="2" value="https://doi.org/10.1038/s41598-025-04652-7" />
+          <attvalue for="3" value="Scientific Reports" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4412059001" label="https://openalex.org/W4412059001">
+        <attvalues>
+          <attvalue for="0" value="Distributed Reinforcement Learning Based Efficient Radio Resource Allocation For Heterogeneous IoT Wireless Network" />
+          <attvalue for="1" value="2025" />
+          <attvalue for="2" value="https://doi.org/10.22399/ijcesen.2852" />
+          <attvalue for="3" value="International Journal of Computational and Experimental Science and Engineering" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4413070496" label="https://openalex.org/W4413070496">
+        <attvalues>
+          <attvalue for="0" value="Agriculture 4.0 as a way forward to sustainable agriculture in Australia" />
+          <attvalue for="1" value="2025" />
+          <attvalue for="2" value="https://doi.org/10.1002/jsf2.70014" />
+          <attvalue for="3" value="JSFA reports" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4413365798" label="https://openalex.org/W4413365798">
+        <attvalues>
+          <attvalue for="0" value="A survey on communication and computing resources allocation and management for cohesive clustered satellites systems" />
+          <attvalue for="1" value="2025" />
+          <attvalue for="2" value="https://doi.org/10.1007/s11432-024-4450-6" />
+          <attvalue for="3" value="Science China Information Sciences" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4414569248" label="https://openalex.org/W4414569248">
+        <attvalues>
+          <attvalue for="0" value="High-precision wearable ionic composite sensor array with material-circuit-software co-design for multi-scenario biomechanical monitoring" />
+          <attvalue for="1" value="2025" />
+          <attvalue for="2" value="https://doi.org/10.1016/j.sna.2025.117106" />
+          <attvalue for="3" value="Sensors and Actuators A Physical" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4414613236" label="https://openalex.org/W4414613236">
+        <attvalues>
+          <attvalue for="0" value="IoT-Based Smart Energy Management and Load Shifting for Residential Consumption Optimization" />
+          <attvalue for="1" value="2025" />
+          <attvalue for="2" value="https://doi.org/10.18466/cbayarfbe.1660181" />
+          <attvalue for="3" value="Celal Bayar Üniversitesi Fen Bilimleri Dergisi" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4414773392" label="https://openalex.org/W4414773392">
+        <attvalues>
+          <attvalue for="0" value="Adaptive network switching algorithm for sensor data transfer: a simulation framework integrating GSM, Wi-Fi, and LoRa networks" />
+          <attvalue for="1" value="2025" />
+          <attvalue for="2" value="https://doi.org/10.3389/friot.2025.1520653" />
+          <attvalue for="3" value="Frontiers in the Internet of Things" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4205852204" label="https://openalex.org/W4205852204">
+        <attvalues>
+          <attvalue for="0" value="Blockchain-based trust management for verifiable time synchronization service in IoT" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="https://doi.org/10.1007/s12083-021-01276-2" />
+          <attvalue for="3" value="Peer-to-Peer Networking and Applications" />
+          <attvalue for="4" value="8" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4214821975" label="https://openalex.org/W4214821975">
+        <attvalues>
+          <attvalue for="0" value="Statistical Learning-Based Grant-Free Access for Delay-Sensitive Internet of Things Applications" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="https://doi.org/10.1109/tvt.2022.3155719" />
+          <attvalue for="3" value="IEEE Transactions on Vehicular Technology" />
+          <attvalue for="4" value="8" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4388297117" label="https://openalex.org/W4388297117">
+        <attvalues>
+          <attvalue for="0" value="Extruder Machine Gear Fault Detection Using Autoencoder LSTM via Sensor Fusion Approach" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.3390/inventions8060140" />
+          <attvalue for="3" value="Inventions" />
+          <attvalue for="4" value="5" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4389610350" label="https://openalex.org/W4389610350">
+        <attvalues>
+          <attvalue for="0" value="Bandwidth Usage Reduction by Traffic Prediction Using Transfer Learning in Satellite Communication Systems" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.1109/tvt.2023.3341442" />
+          <attvalue for="3" value="IEEE Transactions on Vehicular Technology" />
+          <attvalue for="4" value="5" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4402564343" label="https://openalex.org/W4402564343">
+        <attvalues>
+          <attvalue for="0" value="Quantifying Impact: Bibliometric Examination of IoT's Evolution in Sustainable Development" />
+          <attvalue for="1" value="2024" />
+          <attvalue for="2" value="https://doi.org/10.1016/j.iot.2024.101370" />
+          <attvalue for="3" value="Internet of Things" />
+          <attvalue for="4" value="2" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4301185554" label="https://openalex.org/W4301185554">
+        <attvalues>
+          <attvalue for="0" value="Electrically Tunable Microwave Technologies With Ferromagnetic Thin Film: Recent Advances in Design Techniques and Applications" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="https://doi.org/10.1109/mmm.2022.3196415" />
+          <attvalue for="3" value="IEEE Microwave Magazine" />
+          <attvalue for="4" value="7" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4386735970" label="https://openalex.org/W4386735970">
+        <attvalues>
+          <attvalue for="0" value="Mission-Critical Internet of Things on the 6G Network: Services and Apps with Networking Architecture" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.36227/techrxiv.24115869.v1" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="4" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4388792679" label="https://openalex.org/W4388792679">
+        <attvalues>
+          <attvalue for="0" value="Non-optimal impacts of internet expansion on community capacity in rural areas" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.1016/j.resglo.2023.100176" />
+          <attvalue for="3" value="Research in Globalization" />
+          <attvalue for="4" value="4" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4389576020" label="https://openalex.org/W4389576020">
+        <attvalues>
+          <attvalue for="0" value="Mission-Critical Internet of Things on the 6G Network: Services and Apps with Networking Architecture" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.1109/vtc2023-fall60731.2023.10333821" />
+          <attvalue for="3" value="2021 IEEE 94th Vehicular Technology Conference (VTC2021-Fall)" />
+          <attvalue for="4" value="4" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4284885099" label="https://openalex.org/W4284885099">
+        <attvalues>
+          <attvalue for="0" value="Low-profile dual-band pixelated defected ground antenna for multistandard IoT devices" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="https://doi.org/10.1038/s41598-022-15604-w" />
+          <attvalue for="3" value="Scientific Reports" />
+          <attvalue for="4" value="5" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4403242148" label="https://openalex.org/W4403242148">
+        <attvalues>
+          <attvalue for="0" value="A Spectral-Based Blade Fault Detection in Shot Blast Machines with XGBoost and Feature Importance" />
+          <attvalue for="1" value="2024" />
+          <attvalue for="2" value="https://doi.org/10.3390/jsan13050064" />
+          <attvalue for="3" value="Journal of Sensor and Actuator Networks" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4405891055" label="https://openalex.org/W4405891055">
+        <attvalues>
+          <attvalue for="0" value="Revolutionizing Healthcare with IoT in Cardiology" />
+          <attvalue for="1" value="2024" />
+          <attvalue for="2" value="https://doi.org/10.1002/9781394287024.ch9" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4301314417" label="https://openalex.org/W4301314417">
+        <attvalues>
+          <attvalue for="0" value="Efficient Dual-Band Single-Port Rectifier for RF Energy Harvesting at FM and GSM Bands" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="https://doi.org/10.1109/wpw54272.2022.9854025" />
+          <attvalue for="3" value="2022 Wireless Power Week (WPW)" />
+          <attvalue for="4" value="4" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4391924554" label="https://openalex.org/W4391924554">
+        <attvalues>
+          <attvalue for="0" value="Multi-Agent Multi-Armed Bandit Learning for Grant-Free Access in Ultra-Dense IoT Networks" />
+          <attvalue for="1" value="2024" />
+          <attvalue for="2" value="https://doi.org/10.1109/tccn.2024.3366908" />
+          <attvalue for="3" value="IEEE Transactions on Cognitive Communications and Networking" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4401536999" label="https://openalex.org/W4401536999">
+        <attvalues>
+          <attvalue for="0" value="Novel Robust Perspective Rectification for Automatic Circular-Meter Reading" />
+          <attvalue for="1" value="2024" />
+          <attvalue for="2" value="https://doi.org/10.1109/jsen.2024.3439883" />
+          <attvalue for="3" value="IEEE Sensors Journal" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4322622686" label="https://openalex.org/W4322622686">
+        <attvalues>
+          <attvalue for="0" value="Evaluation of Quantum Key Distribution for Secure Satellite-integrated IoT Networks" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.34190/iccws.18.1.982" />
+          <attvalue for="3" value="International Conference on Cyber Warfare and Security" />
+          <attvalue for="4" value="2" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4362733384" label="https://openalex.org/W4362733384">
+        <attvalues>
+          <attvalue for="0" value="Sensing and Device Neighborhood-Based Slot Assignment Approach for the Internet of Things" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.3390/app13084682" />
+          <attvalue for="3" value="Applied Sciences" />
+          <attvalue for="4" value="2" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4377101104" label="https://openalex.org/W4377101104">
+        <attvalues>
+          <attvalue for="0" value="Design of high-efficiency circularly polarized wideband energy harvesting rectenna using characteristic mode analysis" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.1016/j.aeue.2023.154702" />
+          <attvalue for="3" value="AEU - International Journal of Electronics and Communications" />
+          <attvalue for="4" value="2" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4384077440" label="https://openalex.org/W4384077440">
+        <attvalues>
+          <attvalue for="0" value="Detecting BrakTooth Attacks" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.5220/0012128000003555" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="2" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4387827722" label="https://openalex.org/W4387827722">
+        <attvalues>
+          <attvalue for="0" value="IoT-Driven Smart Car Integration with Google Firebase for Empowering Premises Security" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.1109/miucc58832.2023.10278358" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="2" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4387934890" label="https://openalex.org/W4387934890">
+        <attvalues>
+          <attvalue for="0" value="A Self-Sustainable and Micro-Second Time Synchronized Multi-Node Wireless System for Aerodynamic Monitoring on Wind Turbines" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.1109/access.2023.3327422" />
+          <attvalue for="3" value="IEEE Access" />
+          <attvalue for="4" value="2" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4389076484" label="https://openalex.org/W4389076484">
+        <attvalues>
+          <attvalue for="0" value="Machine-Learning-Based Predictive Modeling Analysis in Ambient RF Energy Harvesting for IoT Systems" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.1109/jsen.2023.3334491" />
+          <attvalue for="3" value="IEEE Sensors Journal" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4312328556" label="https://openalex.org/W4312328556">
+        <attvalues>
+          <attvalue for="0" value="A Nested Texture Inspired Novel Image Pattern Based Optical Camera Communication" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="https://doi.org/10.1109/access.2022.3213701" />
+          <attvalue for="3" value="IEEE Access" />
+          <attvalue for="4" value="2" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4317857041" label="https://openalex.org/W4317857041">
+        <attvalues>
+          <attvalue for="0" value="Hybridization of Triboelectric Nanogenerators with Solar Panel" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.1007/978-3-031-05722-9_36-1" />
+          <attvalue for="3" value="Springer eBooks" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4377234855" label="https://openalex.org/W4377234855">
+        <attvalues>
+          <attvalue for="0" value="Electromagnetic Signal Analysis: A Vulnerability to Edge Computing Driven IoT Devices" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.1109/i3cs58314.2023.10127273" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4379117922" label="https://openalex.org/W4379117922">
+        <attvalues>
+          <attvalue for="0" value="Adopting Digital Twin and Internet of Things in the Construction Industry: A SWOT Analysis" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.1007/978-3-031-32511-3_169" />
+          <attvalue for="3" value="Lecture notes in civil engineering" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4382052847" label="https://openalex.org/W4382052847">
+        <attvalues>
+          <attvalue for="0" value="A Hierarchical Security Protection Architecture for Power Internet of Things" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.1109/icccbda56900.2023.10154779" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4385568597" label="https://openalex.org/W4385568597">
+        <attvalues>
+          <attvalue for="0" value="Internet of Things (IoT) in Soil Management for Achieving Smart Agriculture" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.1002/9781119911999.ch20" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4386736036" label="https://openalex.org/W4386736036">
+        <attvalues>
+          <attvalue for="0" value="Mission-Critical Internet of Things on the 6G Network: Services and Apps with Networking Architecture" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.36227/techrxiv.24115869" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4210916533" label="https://openalex.org/W4210916533">
+        <attvalues>
+          <attvalue for="0" value="Deep Learning Techniques Implement Circuit board inspection in Smart Industrial" />
+          <attvalue for="1" value="2021" />
+          <attvalue for="2" value="https://doi.org/10.1109/impact53160.2021.9696677" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="2" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4391097392" label="https://openalex.org/W4391097392">
+        <attvalues>
+          <attvalue for="0" value="NLP-Based Test Co-evolution Prediction for IoT Application Maintenance" />
+          <attvalue for="1" value="2024" />
+          <attvalue for="2" value="https://doi.org/10.1007/978-981-99-9896-8_11" />
+          <attvalue for="3" value="Lecture notes in computer science" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4392114240" label="https://openalex.org/W4392114240">
+        <attvalues>
+          <attvalue for="0" value="Enabling Wireless Communications, Energy Harvesting, and Energy Saving by Using a Multimode Smart Nonlinear Circuit (MSNC)" />
+          <attvalue for="1" value="2024" />
+          <attvalue for="2" value="https://doi.org/10.1109/tim.2024.3369141" />
+          <attvalue for="3" value="IEEE Transactions on Instrumentation and Measurement" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4401626099" label="https://openalex.org/W4401626099">
+        <attvalues>
+          <attvalue for="0" value="Spectral-Based Fault Diagnosis Methodology for Industrial Shot Blast Machinery Leveraging XGBoost and Feature Importance" />
+          <attvalue for="1" value="2024" />
+          <attvalue for="2" value="https://doi.org/10.20944/preprints202408.0942.v1" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4402262211" label="https://openalex.org/W4402262211">
+        <attvalues>
+          <attvalue for="0" value="Physical Layer Security in Intelligent Reflecting Surface-Enabled Small NOMA IoT Network" />
+          <attvalue for="1" value="2024" />
+          <attvalue for="2" value="https://doi.org/10.1109/wincom62286.2024.10658589" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4403328942" label="https://openalex.org/W4403328942">
+        <attvalues>
+          <attvalue for="0" value="Foundations of the Internet of Behavior" />
+          <attvalue for="1" value="2024" />
+          <attvalue for="2" value="https://doi.org/10.4018/979-8-3693-8151-9.ch001" />
+          <attvalue for="3" value="Advances in educational technologies and instructional design book series" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4311890420" label="https://openalex.org/W4311890420">
+        <attvalues>
+          <attvalue for="0" value="Machine Learning Based Industrial Engineering With 6G Technology" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="https://doi.org/10.47750/pnr.2022.13.s09.46" />
+          <attvalue for="3" value="Journal of Pharmaceutical Negative Results" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4321062427" label="https://openalex.org/W4321062427">
+        <attvalues>
+          <attvalue for="0" value="A Novel 2D LED Matrix and Aztec Pattern Inspired Optical Camera Communication for Industrial IoT" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="https://doi.org/10.1109/indicon56171.2022.10040141" />
+          <attvalue for="3" value="2021 IEEE 18th India Council International Conference (INDICON)" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4327641252" label="https://openalex.org/W4327641252">
+        <attvalues>
+          <attvalue for="0" value="Speeding up Machine Learning Inference on Edge Devices by Improving Memory Access Patterns using Coroutines" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="https://doi.org/10.1109/cse57773.2022.00011" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="1" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4376142167" label="https://openalex.org/W4376142167">
+        <attvalues>
+          <attvalue for="0" value="Blockchain-based cloud-edge clock calibration in IoT" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.1007/s12083-023-01475-z" />
+          <attvalue for="3" value="Peer-to-Peer Networking and Applications" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4386184327" label="https://openalex.org/W4386184327">
+        <attvalues>
+          <attvalue for="0" value="Hybridization of Triboelectric Nanogenerators with Solar Panel" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.1007/978-3-031-28111-2_36" />
+          <attvalue for="3" value="Springer eBooks" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4386267954" label="https://openalex.org/W4386267954">
+        <attvalues>
+          <attvalue for="0" value="Resource provisioning model for executing realistic workload in heterogenous internet of things environment" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.11591/ijeecs.v32.i1.pp318-327" />
+          <attvalue for="3" value="Indonesian Journal of Electrical Engineering and Computer Science" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4386584124" label="https://openalex.org/W4386584124">
+        <attvalues>
+          <attvalue for="0" value="Scalability and Sustainability in the Construction of a Social Sports Management Information Platform based on Web Technology" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.12694/scpe.v24i3.2382" />
+          <attvalue for="3" value="Scalable Computing Practice and Experience" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4388192965" label="https://openalex.org/W4388192965">
+        <attvalues>
+          <attvalue for="0" value="Isotropic Radiation Coverage in IoT: Water Drop-Shaped Ultra-Wideband Antenna" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.1109/ccpis59145.2023.10292069" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4390021817" label="https://openalex.org/W4390021817">
+        <attvalues>
+          <attvalue for="0" value="Wireless Sensor Network Coverage Optimization for Internet of Things" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="https://doi.org/10.3897/jucs.103738" />
+          <attvalue for="3" value="JUCS - Journal of Universal Computer Science" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4293482561" label="https://openalex.org/W4293482561">
+        <attvalues>
+          <attvalue for="0" value="A Novel RAW Slot Allocation Scheme for Improving the Performance of IEEE 802.11ah Multi-rate IoT Networks" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="https://doi.org/10.1007/978-981-19-2004-2_54" />
+          <attvalue for="3" value="Lecture notes in electrical engineering" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W4312382734" label="https://openalex.org/W4312382734">
+        <attvalues>
+          <attvalue for="0" value="Introduction" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="https://doi.org/10.1007/978-981-19-5619-5_1" />
+          <attvalue for="3" value="SpringerBriefs in applied sciences and technology" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </node>
+      <node id="https://openalex.org/W3216081562" label="https://openalex.org/W3216081562">
+        <attvalues>
+          <attvalue for="0" value="Diffuse scattering and physical optics in the propagation of electromagnetic waves applied to mobile communications" />
+          <attvalue for="1" value="2021" />
+          <attvalue for="2" value="https://doi.org/10.1088/1742-6596/2102/1/012009" />
+          <attvalue for="3" value="Journal of Physics Conference Series" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4210879646" id="0" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4366977512" id="1" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4394804988" id="2" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4407985823" id="3" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W3211742690" id="4" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4312349588" id="5" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4388966623" id="6" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4322576550" id="7" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4320473171" id="8" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4389080276" id="9" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4385453905" id="10" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4408608231" id="11" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4293418771" id="12" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4281493184" id="13" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4293370545" id="14" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4319786661" id="15" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4401433593" id="16" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4391554010" id="17" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4385656415" id="18" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4388510242" id="19" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4400908959" id="20" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4391547675" id="21" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4372269045" id="22" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4406849041" id="23" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4410199002" id="24" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4410617461" id="25" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4385221014" id="26" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4206717753" id="27" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4295084703" id="28" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W3216181886" id="29" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4323971836" id="30" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4321021758" id="31" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4392397070" id="32" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4200537793" id="33" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4210771822" id="34" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4378976228" id="35" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4387042200" id="36" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W3198064290" id="37" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4385452916" id="38" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4387650641" id="39" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4388627545" id="40" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4399433472" id="41" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4312767947" id="42" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4406113507" id="43" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4407597248" id="44" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4408106007" id="45" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4410778936" id="46" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4411435299" id="47" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4411863072" id="48" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4412059001" id="49" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4413070496" id="50" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4413365798" id="51" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4414569248" id="52" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4414613236" id="53" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4414773392" id="54" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4205852204" id="55" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4214821975" id="56" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4388297117" id="57" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4389610350" id="58" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4402564343" id="59" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4301185554" id="60" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4386735970" id="61" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4388792679" id="62" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4389576020" id="63" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4284885099" id="64" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4403242148" id="65" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4405891055" id="66" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4301314417" id="67" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4391924554" id="68" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4401536999" id="69" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4322622686" id="70" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4362733384" id="71" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4377101104" id="72" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4384077440" id="73" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4387827722" id="74" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4387934890" id="75" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4389076484" id="76" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4312328556" id="77" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4317857041" id="78" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4377234855" id="79" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4379117922" id="80" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4382052847" id="81" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4385568597" id="82" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4386736036" id="83" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4210916533" id="84" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4391097392" id="85" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4392114240" id="86" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4401626099" id="87" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4402262211" id="88" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4403328942" id="89" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4311890420" id="90" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4321062427" id="91" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4327641252" id="92" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4376142167" id="93" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4386184327" id="94" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4386267954" id="95" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4386584124" id="96" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4388192965" id="97" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4390021817" id="98" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4293482561" id="99" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W4312382734" id="100" />
+      <edge source="https://openalex.org/W3163755028" target="https://openalex.org/W3216081562" id="101" />
+    </edges>
+  </graph>
+</gexf>
